@@ -1,6 +1,0 @@
-title: Raphael Pacheco
-description: Cientista de dados
-logo: https://1drv.ms/i/s!Aoi91eSmgFa7g5BmrUL_bKRXpRQvOA?e=XPoiDX
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
